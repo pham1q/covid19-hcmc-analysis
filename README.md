@@ -18,10 +18,10 @@ This project utilizes **R** to analyze a COVID-19 dataset, focusing specifically
 
 ## 📷 Visualizations
 ### 1. Residuals Heatmap
-
+<img width="3000" height="1800" alt="Fig1_Heatmap_Residuals" src="https://github.com/user-attachments/assets/41b6e65c-5178-4791-9f3e-f13da3bf10bd" />
 
 ### 2. Distribution by Status (Facet Plot)
-
+<img width="4200" height="2100" alt="Fig2_Distribution_Facet" src="https://github.com/user-attachments/assets/66e010dc-5b10-460f-aff1-c9d1a5a59d7a" />
 
 ---
 *Project by Pham Nhat Quynh*
