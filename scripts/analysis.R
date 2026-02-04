@@ -64,7 +64,7 @@ heatmap_plot <- ggplot(melted_residuals, aes(x = Status, y = AgeGroup, fill = St
   theme_minimal()
 
 # Save Heatmap
-ggsave("Fig1_Heatmap_Residuals.emf", plot = heatmap_plot, width = 10, height = 6)
+ggsave("Fig1_Heatmap_Residuals.png", plot = heatmap_plot, width = 10, height = 6)
 
 
 # --- 5. VISUALIZATION 2: FACET BAR CHART (DISTRIBUTION) ---
